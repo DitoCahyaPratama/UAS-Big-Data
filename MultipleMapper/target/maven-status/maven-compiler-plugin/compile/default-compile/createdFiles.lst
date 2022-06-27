@@ -1,0 +1,4 @@
+org\doyatama\TemperatureMapper.class
+org\doyatama\MultipleMapperReducer.class
+org\doyatama\DescMapper.class
+org\doyatama\TemperatureReducer.class

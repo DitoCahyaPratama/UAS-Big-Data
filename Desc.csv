@@ -1,0 +1,9 @@
+Id,Desc
+1,LandAverageTemperature
+2,LandAverageTemperatureUncertainty
+3,LandMaxTemperature
+4,LandMaxTemperatureUncertainty
+5,LandMinTemperature
+6,LandMinTemperatureUncertainty
+7,LandAndOceanAverageTemperature
+8,LandAndOceanAverageTemperatureUncertainty
